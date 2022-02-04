@@ -1,0 +1,60 @@
+a {
+  text-decoration: none;
+}
+ul {
+  list-style-type: none;
+}
+body {font: 400;}
+button {border: none;}
+
+.logo {color:#2196F3;}
+.header-studio {color: #212121;}
+.footer-studio {color: #FFFFFF;}
+.site-naw a {
+#212121
+}
+.site-naw a:hover,
+.site-naw a:focus {
+  color: #2196f3;
+}
+.contact a {
+  color:#757575
+}
+.contact a:hover,
+.contact a:focus {
+  color: #2196f3;
+}
+.solution {background-color: #2F303A;}
+h1 {
+  color: #FFFFFF;
+}
+.button {
+  color: #ffffff;
+  background-color: #2196f3;
+}
+.arguments h3 {
+  color:#212121;
+}
+.arguments p {
+  color: #757575;
+}
+h2 {color: 
+   #212121;
+   }
+.team p {color:#757575};
+<style>
+.studio-footer {color: #FFFFFF;}
+.physical-addres {
+  color:#FFFFFF;
+}
+.footer-contact {
+  color: rgba(255, 255, 255, 0.6);
+}
+.footer {background-color:  #2F303A;}
+
+.button-portfolio li :hover,
+.button-portfolio li :focus {
+  background-color:#2196F3;
+  color: #FFFFFF;
+}
+
